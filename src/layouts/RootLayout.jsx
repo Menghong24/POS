@@ -6,7 +6,7 @@ function RootLayout() {
   return (
     <div>
       <div className="bg-success text-white h-[60px] flex items-center justify-between  px-10">
-        <h1 className="font-bold text-lg">MasterIT POS</h1>
+        <h1 className="font-bold text-lg">XZOM POS</h1>
         <button className="btn btn-sm rounded-lg">ADMIN</button>
       </div>
       <div className="flex h-screen">
